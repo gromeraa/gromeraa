@@ -1,5 +1,7 @@
 ## Guilherme Romera 👋
 
+<img width="1400" height="350" alt="banner_final" src="https://github.com/user-attachments/assets/cff66556-437b-4db8-bcb4-1040f2195a8a" />
+
 <!--
 **gromeraa/gromeraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
